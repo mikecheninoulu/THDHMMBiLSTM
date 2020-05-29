@@ -1,9 +1,9 @@
 # Temporal_hierarchical_dictionary_HMM
-This code is for the paper: Temporal Hierarchical Dictionary Guided Decodingfor Online Gesture Segmentation and Recognition. We propose a novel hybrid HMM-DNN framework for online segmentation and recognition of skeleton-based human gestures. The network is tested on the four datasets, MSRA, OAD gesture dataset, DHG gesture dataset and Chalearn 2014 dataset. We report state-of-the-art performances on all these datasets.
+This code is for the paper: Temporal Hierarchical Dictionary Guided Decodingfor Online Gesture Segmentation and Recognition. We propose a novel hybrid HMM-DNN framework for online segmentation and recognition of skeleton-based human gestures. The network is tested on the four datasets, MSRA, OAD action dataset, DHG gesture dataset and Chalearn 2014 dataset. We report state-of-the-art performances on all these datasets.
 
 Code written by Chen Haoyu, University of Oulu.
 
-The original code is written in Theano, we re-implemented it with Keras-Tensorflow.
+The original code was written in Theano, we re-implemented it with Keras-Tensorflow.
 
 We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
 
