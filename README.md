@@ -34,3 +34,19 @@ Ubuntu 16.04 <br>
 Python 3.6.5 <br>
 Keras 2.3.1  <br>
 Tensorflow==1.15.0 <br>
+
+
+## Citation
+Please cite these papers in your publications if it helps your research. 
+
+@article{chen2020temporal,
+  title={Temporal Hierarchical Dictionary Guided Decoding for Online Gesture Segmentation and Recognition},
+  author={Chen, Haoyu and Liu, Xin and Shi, Jingang and Zhao, Guoying},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={9689--9702},
+  year={2020},
+  publisher={IEEE}
+}
+
+Copyright@  University of Oulu
