@@ -30,12 +30,11 @@ We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
 * 3. check the generated THD-HMM and calculated Entropy maps in the folder `./template/`.
 
 ## Environments
-<br> Ubuntu 16.04 <br>
-<br> Python 3.6.5 <br>
-<br> Keras 2.3.1  <br>
-<br> Tensorflow==1.15.0 <br>
-<br> cuda ==10.0 <br> cuda 10.1 is not compatible
-
+Ubuntu 16.04 <br>
+Python 3.6.5 <br>
+Keras 2.3.1 <br>
+Tensorflow-gpu==1.15.0 <br>
+cuda ==10.0 (cuda 10.1 is not compatible) <br> 
 
 ## Citation
 Please cite these papers in your publications if it helps your research. 
